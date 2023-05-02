@@ -1,0 +1,328 @@
+[
+    {
+        "id": "1",
+        "name": "Maria Rodriguez",
+        "image": "https://via.placeholder.com/150",
+        "bio": "Maria is a pastry chef who specializes in French pastries. She has over 15 years of experience and has worked in top restaurants and bakeries in Paris, New York, and Tokyo.",
+        "likes": 2500,
+        "numRecipes": 6,
+        "yearsExperience": 15,
+        "recipes": [
+            {
+                "id": "1",
+                "name": "Croissants",
+                "ingredients": [
+                    "flour",
+                    "butter",
+                    "milk",
+                    "sugar",
+                    "salt",
+                    "yeast"
+                ],
+                "cookingMethod": "1. In a mixing bowl, combine flour, sugar, salt, and yeast. 2. Add milk and knead the dough. 3. Roll out the dough and spread butter on top. 4. Fold the dough and repeat the process several times. 5. Cut the dough into triangles and roll them up. 6. Let the croissants rise and bake them in the oven. 7. Serve warm.",
+                "rating": 4.8,
+                "isFavorite": true
+            },
+            {
+                "id": "2",
+                "name": "Macarons",
+                "ingredients": [
+                    "almond flour",
+                    "powdered sugar",
+                    "egg whites",
+                    "sugar",
+                    "food coloring"
+                ],
+                "cookingMethod": "1. Sift almond flour and powdered sugar together. 2. Whip egg whites and sugar until stiff peaks form. 3. Fold the dry ingredients into the egg whites. 4. Add food coloring and mix well. 5. Pipe the batter onto a baking sheet. 6. Let the macarons dry and bake them in the oven. 7. Fill with your desired filling.",
+                "rating": 4.6,
+                "isFavorite": false
+            },
+            {
+                "id": "3",
+                "name": "Crème Brûlée",
+                "ingredients": [
+                    "heavy cream",
+                    "egg yolks",
+                    "sugar",
+                    "vanilla extract"
+                ],
+                "cookingMethod": "1. Heat the cream and vanilla extract in a saucepan. 2. In a mixing bowl, whisk egg yolks and sugar until pale. 3. Add the hot cream to the egg mixture and whisk well. 4. Strain the mixture and pour into ramekins. 5. Bake the crème brûlée in a water bath. 6. Chill the crème brûlée in the refrigerator. 7. Sprinkle sugar on top and caramelize with a torch.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "John Smith",
+        "image": "https://via.placeholder.com/150",
+        "bio": "John is a BBQ pitmaster who specializes in Texas-style smoked meats. He has over 20 years of experience and has won numerous awards in BBQ competitions.",
+        "likes": 5000,
+        "numRecipes": 8,
+        "yearsExperience": 20,
+        "recipes": [
+            {
+                "id": "1",
+                "name": "Brisket",
+                "ingredients": [
+                    "beef brisket",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "1. Trim the brisket and season with salt and pepper. 2. Smoke the brisket in a smoker at 225°F for 12-16 hours. 3. Wrap the brisket in foil and continue to smoke until the internal temperature reaches 200°F. 4. Let the brisket rest for at least 1 hour. 5. Slice against the grain and serve.",
+                "rating": 5.0,
+                "isFavorite": true
+            },
+            {
+                "id": "2",
+                "name": "Pulled Pork",
+                "ingredients": [
+                    "pork shoulder",
+                    "salt",
+                    "pepper",
+                    "barbecue sauce"
+                ],
+                "cookingMethod": "1. Season the pork shoulder with salt and pepper. 2. Smoke the pork shoulder in a smoker at 225°F for 10-12 hours. 3. Wrap the pork shoulder in foil and continue to smoke until the internal temperature reaches 200°F. 4. Let the pork shoulder rest for at least 1 hour. 5. Pull the pork and mix with barbecue sauce. 6. Serve on buns with coleslaw.",
+                "rating": 4.8,
+                "isFavorite": false
+            },
+            {
+                "id": "3",
+                "name": "Smoked Ribs",
+                "ingredients": [
+                    "pork ribs",
+                    "salt",
+                    "pepper",
+                    "barbecue sauce"
+                ],
+                "cookingMethod": "1. Season the pork ribs with salt and pepper. 2. Smoke the ribs in a smoker at 225°F for 5-6 hours. 3. Brush the ribs with barbecue sauce and continue to smoke for another 30 minutes. 4. Let the ribs rest for at least 10 minutes. 5. Serve with more barbecue sauce.",
+                "rating": 4.5,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Sarah Lee",
+        "image": "https://via.placeholder.com/150",
+        "bio": "Sarah is a vegan chef who specializes in plant-based cuisine. She has over 10 years of experience and has worked in top vegan restaurants in London, New York, and Sydney.",
+        "likes": 3500,
+        "numRecipes": 5,
+        "yearsExperience": 10,
+        "recipes": [
+            {
+                "id": "1",
+                "name": "Vegan Lasagna",
+                "ingredients": [
+                    "lasagna noodles",
+                    "tofu",
+                    "spinach",
+                    "vegan cheese",
+                    "marinara sauce"
+                ],
+                "cookingMethod": "1. Cook lasagna noodles according to package directions. 2. Mash tofu and mix with spinach. 3. Layer noodles, tofu mixture, marinara sauce, and vegan cheese in a baking dish. 4. Bake in the oven at 375°F for 25-30 minutes. 5. Serve hot.",
+                "rating": 4.7,
+                "isFavorite": true
+            },
+            {
+                "id": "2",
+                "name": "Vegan Burger",
+                "ingredients": [
+                    "black beans",
+                    "quinoa",
+                    "breadcrumbs",
+                    "onion",
+                    "garlic",
+                    "spices"
+                ],
+                "cookingMethod": "1. Cook quinoa according to package directions. 2. Mash black beans and mix with cooked quinoa, breadcrumbs, onion, garlic, and spices. 3. Form mixture into patties and grill or bake in the oven. 4. Serve on buns with avocado, lettuce, and tomato.",
+                "rating": 4.4,
+                "isFavorite": false
+            },
+            {
+                "id": "3",
+                "name": "Vegan Chocolate Cake",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "baking soda",
+                    "salt",
+                    "vegetable oil",
+                    "vanilla extract",
+                    "vinegar"
+                ],
+                "cookingMethod": "1. Preheat the oven to 350°F. 2. In a mixing bowl, combine flour, sugar, cocoa powder, baking soda, and salt. 3. Add vegetable oil, vanilla extract, vinegar, and water. 4. Mix well and pour into a greased baking pan. 5. Bake for 25-30 minutes. 6. Let cool and serve.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Juan Rodriguez",
+        "image": "https://via.placeholder.com/150",
+        "bio": "Juan is a chef who specializes in Mexican cuisine. He has over 15 years of experience and has worked in top restaurants in Mexico City and Los Angeles. He is known for his authentic, flavorful dishes that showcase the best of Mexican ingredients.",
+        "likes": 4500,
+        "numRecipes": 6,
+        "yearsExperience": 15,
+        "recipes": [
+            {
+                "id": "1",
+                "name": "Carne Asada Tacos",
+                "ingredients": [
+                    "skirt steak",
+                    "lime",
+                    "garlic",
+                    "cilantro",
+                    "corn tortillas",
+                    "salsa",
+                    "guacamole"
+                ],
+                "cookingMethod": "1. Marinate skirt steak in lime juice, garlic, and cilantro for at least 30 minutes. 2. Grill the steak over high heat until cooked to your liking. 3. Let the steak rest for 5 minutes, then slice into thin strips. 4. Heat the corn tortillas on a griddle or in the oven. 5. Assemble tacos with steak, salsa, and guacamole. 6. Serve hot.",
+                "rating": 4.8,
+                "isFavorite": true
+            },
+            {
+                "id": "2",
+                "name": "Pico de Gallo",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "jalapeno",
+                    "lime",
+                    "cilantro",
+                    "salt"
+                ],
+                "cookingMethod": "1. Dice tomatoes, onion, and jalapeno. 2. Mix together in a bowl. 3. Add lime juice and cilantro. 4. Season with salt to taste. 5. Serve as a dip with tortilla chips or as a topping for tacos.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": "3",
+                "name": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano peppers",
+                    "queso fresco",
+                    "eggs",
+                    "flour",
+                    "oil"
+                ],
+                "cookingMethod": "1. Roast poblanos over an open flame until charred on all sides. 2. Let the peppers cool, then peel off the skin. 3. Cut a slit in each pepper and remove the seeds. 4. Stuff each pepper with queso fresco. 5. Separate the eggs and beat the whites until stiff peaks form. 6. Mix the yolks with flour and a pinch of salt. 7. Fold the egg whites into the yolk mixture. 8. Heat oil in a frying pan. 9. Dip each pepper in the egg mixture and fry until golden brown on all sides. 10. Drain on paper towels and serve hot.",
+                "rating": 4.7,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Emma Smith",
+        "image": "https://via.placeholder.com/150",
+        "bio": "Juan is a chef who specializes in Mexican cuisine. He has over 15 years of experience and has worked in top restaurants in Mexico City and Los Angeles. He is known for his authentic, flavorful dishes that showcase the best of Mexican ingredients.",
+        "likes": 3500,
+        "numRecipes": 9,
+        "yearsExperience": 12,
+        "recipes": [
+            {
+                "id": "1",
+                "name": "Carne Asada Tacos",
+                "ingredients": [
+                    "skirt steak",
+                    "lime",
+                    "garlic",
+                    "cilantro",
+                    "corn tortillas",
+                    "salsa",
+                    "guacamole"
+                ],
+                "cookingMethod": "1. Marinate skirt steak in lime juice, garlic, and cilantro for at least 30 minutes. 2. Grill the steak over high heat until cooked to your liking. 3. Let the steak rest for 5 minutes, then slice into thin strips. 4. Heat the corn tortillas on a griddle or in the oven. 5. Assemble tacos with steak, salsa, and guacamole. 6. Serve hot.",
+                "rating": 4.8,
+                "isFavorite": true
+            },
+            {
+                "id": "2",
+                "name": "Pico de Gallo",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "jalapeno",
+                    "lime",
+                    "cilantro",
+                    "salt"
+                ],
+                "cookingMethod": "1. Dice tomatoes, onion, and jalapeno. 2. Mix together in a bowl. 3. Add lime juice and cilantro. 4. Season with salt to taste. 5. Serve as a dip with tortilla chips or as a topping for tacos.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": "3",
+                "name": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano peppers",
+                    "queso fresco",
+                    "eggs",
+                    "flour",
+                    "oil"
+                ],
+                "cookingMethod": "1. Roast poblanos over an open flame until charred on all sides. 2. Let the peppers cool, then peel off the skin. 3. Cut a slit in each pepper and remove the seeds. 4. Stuff each pepper with queso fresco. 5. Separate the eggs and beat the whites until stiff peaks form. 6. Mix the yolks with flour and a pinch of salt. 7. Fold the egg whites into the yolk mixture. 8. Heat oil in a frying pan. 9. Dip each pepper in the egg mixture and fry until golden brown on all sides. 10. Drain on paper towels and serve hot.",
+                "rating": 4.7,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Juan Rodriguez",
+        "image": "https://via.placeholder.com/150",
+        "bio": "Juan is a chef who specializes in Mexican cuisine. He has over 15 years of experience and has worked in top restaurants in Mexico City and Los Angeles. He is known for his authentic, flavorful dishes that showcase the best of Mexican ingredients.",
+        "likes": 3000,
+        "numRecipes": 6,
+        "yearsExperience": 8,
+        "recipes": [
+            {
+                "id": "1",
+                "name": "Carne Asada Tacos",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "jalapeno",
+                    "lime",
+                    "cilantro",
+                    "salt"
+                ],
+                "cookingMethod":  "1. Dice tomatoes, onion, and jalapeno. 2. Mix together in a bowl. 3. Add lime juice and cilantro. 4. Season with salt to taste. 5. Serve as a dip with tortilla chips or as a topping for tacos.",
+                "rating": 4.5,
+                "isFavorite": true
+            },
+            {
+                "id": "2",
+                "name": "Pico de Gallo",
+                "ingredients": [
+                    "tomatoes",
+                    "onion",
+                    "jalapeno",
+                    "lime",
+                    "cilantro",
+                    "salt"
+                ],
+                "cookingMethod": "1. Dice tomatoes, onion, and jalapeno. 2. Mix together in a bowl. 3. Add lime juice and cilantro. 4. Season with salt to taste. 5. Serve as a dip with tortilla chips or as a topping for tacos.",
+                "rating": 4.3,
+                "isFavorite": false
+            },
+            {
+                "id": "3",
+                "name": "Chiles Rellenos",
+                "ingredients": [
+                    "poblano peppers",
+                    "queso fresco",
+                    "eggs",
+                    "flour",
+                    "oil"
+                ],
+                "cookingMethod": "1. Roast poblanos over an open flame until charred on all sides. 2. Let the peppers cool, then peel off the skin. 3. Cut a slit in each pepper and remove the seeds. 4. Stuff each pepper with queso fresco. 5. Separate the eggs and beat the whites until stiff peaks form. 6. Mix the yolks with flour and a pinch of salt. 7. Fold the egg whites into the yolk mixture. 8. Heat oil in a frying pan. 9. Dip each pepper in the egg mixture and fry until golden brown on all sides. 10. Drain on paper towels and serve hot.",
+                "rating": 4.9,
+                "isFavorite": true
+            }
+        ]
+    }
+]
