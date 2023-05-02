@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Maria Rodriguez",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://i.ibb.co/WPShH6H/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
         "bio": "Maria is a pastry chef who specializes in French pastries. She has over 15 years of experience and has worked in top restaurants and bakeries in Paris, New York, and Tokyo.",
         "likes": 2500,
         "numRecipes": 6,
@@ -55,7 +55,7 @@
     {
         "id": "2",
         "name": "John Smith",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://i.ibb.co/qNWvWRc/louis-hansel-v3-Ol-BE6-fh-U-unsplash-1.jpg",
         "bio": "John is a BBQ pitmaster who specializes in Texas-style smoked meats. He has over 20 years of experience and has won numerous awards in BBQ competitions.",
         "likes": 5000,
         "numRecipes": 8,
@@ -104,7 +104,7 @@
     {
         "id": "3",
         "name": "Sarah Lee",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://i.ibb.co/kJdwVdy/sebastian-coman-photography-e-Bmy-H7o-O5w-Y-unsplash.jpg",
         "bio": "Sarah is a vegan chef who specializes in plant-based cuisine. She has over 10 years of experience and has worked in top vegan restaurants in London, New York, and Sydney.",
         "likes": 3500,
         "numRecipes": 5,
@@ -161,7 +161,7 @@
     {
         "id": "4",
         "name": "Juan Rodriguez",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://i.ibb.co/251XWjK/jeff-siepman-z-Ixd-GQ7l-PU-unsplash.jpg",
         "bio": "Juan is a chef who specializes in Mexican cuisine. He has over 15 years of experience and has worked in top restaurants in Mexico City and Los Angeles. He is known for his authentic, flavorful dishes that showcase the best of Mexican ingredients.",
         "likes": 4500,
         "numRecipes": 6,
@@ -217,7 +217,7 @@
     {
         "id": "5",
         "name": "Emma Smith",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://i.ibb.co/qNWvWRc/louis-hansel-v3-Ol-BE6-fh-U-unsplash-1.jpg",
         "bio": "Juan is a chef who specializes in Mexican cuisine. He has over 15 years of experience and has worked in top restaurants in Mexico City and Los Angeles. He is known for his authentic, flavorful dishes that showcase the best of Mexican ingredients.",
         "likes": 3500,
         "numRecipes": 9,
@@ -273,7 +273,7 @@
     {
         "id": "6",
         "name": "Juan Rodriguez",
-        "image": "https://via.placeholder.com/150",
+        "image": "https://i.ibb.co/F7MkZ2V/jason-leung-e-KZLpj7-U0-E-unsplash.jpg",
         "bio": "Juan is a chef who specializes in Mexican cuisine. He has over 15 years of experience and has worked in top restaurants in Mexico City and Los Angeles. He is known for his authentic, flavorful dishes that showcase the best of Mexican ingredients.",
         "likes": 3000,
         "numRecipes": 6,
